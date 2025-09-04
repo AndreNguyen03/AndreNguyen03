@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Frontend & Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://andrenguyen03.github.io/e-portfolio/](https://andrenguyen03.github.io/e-portfolio/)
+- 👨‍💻 All of my projects are available at [https://andrenguyen03.github.io/e-portfolio/](https://andrenguyen03.github.io/about-me/)
 
 - 💬 Ask me about **Frontend & Backend Development**
 
