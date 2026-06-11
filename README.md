@@ -13,6 +13,6 @@
 
 - 💬 Ask me about **Frontend & Backend Development**
 
-- 📫 How to reach me **ngoccanh030110@gmail.com**
+- 📫 How to reach me **ngocanh030110@gmail.com**
 
 - ⚡ My tech stack: React, ExpressJS, NestJS, FastAPI
