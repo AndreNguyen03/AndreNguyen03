@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning on **Highload system**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **Web/App Projects**
 
@@ -15,4 +15,4 @@
 
 - 📫 How to reach me **ngocanh030110@gmail.com**
 
-- ⚡ My tech stack: React, ExpressJS, NestJS, FastAPI
+- ⚡ My tech stack: React, ExpressJS, NestJS, FastAPI, Spring Boot, Flutter, NextJs
