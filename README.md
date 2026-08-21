@@ -15,4 +15,4 @@
 
 - 📫 How to reach me **ngocanh030110@gmail.com**
 
-- ⚡ My tech stack: React, ExpressJS, NestJS, FastAPI, Spring Boot, Flutter, NextJs
+- ⚡ My tech stack: React, ExpressJS, NestJS, FastAPI, Spring Boot, ReactNative, NextJs
